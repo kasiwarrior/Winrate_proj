@@ -1,0 +1,2 @@
+match_id,puuid,game_start_timestamp,game_end_timestamp,game_duration_sec,win,champion_played,kills,deaths,assists,rank,game_end_datetime
+EUW1_7821707755,zUHHU886uo7SHufgLgMyCB-mO7e_fFr1OCUNOuTMtdb3OmEKOdMRDRlOzH3FInDBs7VftR3sD2u_tg,1776284015573,1776285854601,1839,True,Karma,2,7,9,UNRANKED,2026-04-15 20:44:14.601
